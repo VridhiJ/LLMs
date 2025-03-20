@@ -9,7 +9,7 @@ Finetuning LLMs using LoRA and IA3 implemented through various papers.
 - part 3: Implemented IA3 modifications:
 
   - by modifying activations
-  - by adjusting weights and biases in CLAM
+  - by adjusting weights and biases to align with CLAM framework
 
 ## Memory optimization - Quantization:
 Quantization Aware Training and post-training quantization: see how Quantization-Aware Training and post-training Quantization affects our model performance(75% memory optimization)
